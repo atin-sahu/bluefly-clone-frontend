@@ -1,7 +1,7 @@
 import { Navbar } from "./components/Navbar/Navbar";
 import { Footer } from "./components/Footer/Footer";
 // import { Cart } from "./components/Cart";
-import { Login } from "./components/Login/Login";
+import { Login } from "./components/login/Login";
 import { Sign } from "./components/Signup/Sign";
 import {Routes,Route} from "react-router-dom"
 
@@ -18,7 +18,7 @@ function App() {
         <Route path={'/sign'} element={<Sign />}></Route>
       </Routes>
 
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
