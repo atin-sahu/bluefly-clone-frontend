@@ -1,16 +1,16 @@
 import { Cartpage } from "./components/Cartpage";
-import { Payment } from "./components/Payment";
-import {Routes,Route} from "react-router-dom";
-import { Login } from "./components/Login";
-import { CreateAccount } from "./components/CreateAccount";
-import { Navbar } from "./components/navbar/Navbar";
-import { Home } from "./components/navbar/Home";
-import { Cart } from "./components/navbar/Cart";
+// import { Payment } from "./components/Payment";
+// import {Routes,Route} from "react-router-dom";
+// import { Login } from "./components/Login";
+// import { CreateAccount } from "./components/CreateAccount";
+// import { Navbar } from "./components/navbar/Navbar";
+// import { Home } from "./components/navbar/Home";
+// import { Cart } from "./components/navbar/Cart";
 
 function App({children}) {
   return (
     <div>
-      {/* <Cartpage></Cartpage> */}
+      <Cartpage></Cartpage>
       {/* <Routes>
         <Route path={"/payment"} element={<Payment></Payment>}></Route>
       </Routes> */}
@@ -19,11 +19,11 @@ function App({children}) {
 
       {/* ------------------ */}
 
-      <Navbar></Navbar>
+      {/* <Navbar></Navbar>
       <Routes>
         <Route path="/home" element={<Home></Home>}></Route>
         <Route path="/cart" element={<Cart></Cart>}></Route>
-      </Routes>
+      </Routes> */}
     </div>
   
   );
