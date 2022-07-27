@@ -54,8 +54,8 @@ Bluefly offers an e-commerce platform that sells designer apparel and accessorie
 
 ## Deployment
 
-- [Netlify Link](https://bluefly-clone-frontend.vercel.app)
-- [Backend Repo](https://github.com/Sravani0410/bluefly-clone-api)
+- 🔗 [Netlify Link](https://bluefly-clone-frontend.vercel.app)
+- 🔗 [Backend Repo](https://github.com/Sravani0410/bluefly-clone-api)
 
 
 ## Feedback
