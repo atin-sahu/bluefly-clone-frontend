@@ -41,16 +41,6 @@ Bluefly offers an e-commerce platform that sells designer apparel and accessorie
 - [Tejasvini](https://github.com/Teju0910)
 - [Setu Bhaskar Jha](https://github.com/sbj1198)
 
-## Deployment
-
-
-
-```bash
-
-🔗 Netlify--> bluefly-clone-frontend.vercel.app
-🔗 backend repo-->  https://github.com/Sravani0410/bluefly-clone-api
-
-```
 
 ## Deployment
 
