@@ -1,5 +1,6 @@
-# smallcase
-smallcase is a fintech company building a trusted financial ecosystem with advisors, brokers and other market participants for the investor. smallcase was started to introduce a new generation of investors to the Indian equity markets using technology.
+
+# Bluefly
+Bluefly offers an e-commerce platform that sells designer apparel and accessories, household products and accessories at discounted prices.
 
 
 
@@ -8,9 +9,12 @@ smallcase is a fintech company building a trusted financial ecosystem with advis
 - HTML
 - CSS
 - BootStrap
+- Chakra UI
 - JavaScript
+- React
 - MongoDB
 - Express
+- Node
 
 
 
@@ -20,18 +24,22 @@ smallcase is a fintech company building a trusted financial ecosystem with advis
 
 - Sign-in/Sign-up Page
 - Navigation Bar
-- Watchlist Page
-- Manegers Page
+- Landing Page
+- Products Page
+- Product Detail Page
+- Cart Page
+- Pyment Page
 
 
 
 ## Authors
 
-- [ayushi8855](https://github.com/ayushi8855)
-- [atin-sahu](https://github.com/atin-sahu)
-- [iam-riyaz](https://github.com/iam-riyaz)
-- [jani474747](https://github.com/jani474747)
-
+- [Atin Sahu](https://github.com/atin-sahu)
+- [Sravani](https://github.com/Sravani0410)
+- [Jitender](https://github.com/jitender004)
+- [Darshan Shinde](https://github.com/darshan-shinde)
+- [Tejasvini](https://github.com/Teju0910)
+- [Setu Bhaskar Jha](https://github.com/sbj1198)
 
 ## Deployment
 
@@ -39,10 +47,8 @@ smallcase is a fintech company building a trusted financial ecosystem with advis
 
 ```bash
 
-🔗 Netlify--> smallcase7171.netlify.app/
-🔗 Medium Blog--> https://medium.com/@riyazahmad.online/smallcase-website-clone-a056c53d54ac
-🔗 backend repo-->  https://github.com/atin-sahu/smallcase-backend.git
-
+🔗 Netlify--> bluefly-clone-frontend.vercel.app
+🔗 backend repo-->  https://github.com/Sravani0410/bluefly-clone-api
 
 ```
 
@@ -52,4 +58,3 @@ smallcase is a fintech company building a trusted financial ecosystem with advis
 If you have any feedback, please reach out to us at jayshiv7171@gmail.com
 
 
-## Screenshots
